@@ -2,7 +2,7 @@ Package.describe({
   name: 'forms:validate-phone',
   version: '0.0.1',
   // Brief, one-line summary of the package.
-  summary: '',
+  summary: 'https://github.com/meteor-forms/validate-phone',
   // URL to the Git repository containing the source code for this package.
   git: '',
   // By default, Meteor will default to using README.md for documentation.
