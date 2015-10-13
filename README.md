@@ -13,12 +13,10 @@ This package extends the `Validate-Form` package found [here](https://github.com
 
 Simply add `data-phone`  to your fields like so
 
-```
+```html
 <form id='new-user-form' class='validate'>
   <div class="form-group">
     <input type="text" name="mobile" data-onblur data-required data-phone>
   </div>
-
 </form>
-
 ```
